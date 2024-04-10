@@ -24,9 +24,13 @@ Our platform aims to bridge the information gap and streamline the matchmaking p
 **Tech Stack**
 
 **Backend Development:** Built using Python and the Django web framework, the backend of CommunityConnect ensures robustness, scalability, and performance.
+
 **Database Management:** Leveraging a relational database such as PostgreSQL, CommunityConnect efficiently stores and manages data, ensuring reliability and data integrity.
+
 **Frontend Development:** The frontend of CommunityConnect is developed using Vue.js, a progressive JavaScript framework known for its versatility and responsiveness. Chakra UI is employed for styling, enhancing the visual appeal and usability of the platform. We also used html to improve the formatting of the website.
+
 **Authentication and Security:** User authentication is handled securely using Firebase authentication, implementing best practices to safeguard user data and privacy.
+
 **Deployment:** While the application is currently hosted locally, we have plans to deploy it on a cloud platform such as Heroku, ensuring accessibility and scalability for users worldwide.
 
 **Files**
@@ -43,7 +47,7 @@ Our platform aims to bridge the information gap and streamline the matchmaking p
 
 1. Although we learnt Flask as part of our Week 9 CS50x Topic, we struggled in creating a website from scratch due to its simpler tools. We then searched for more accessible tools for web development and we found Django. Unlike Flask which has a lightweight micro-framework and has a “build from scratch” approach, Django is equipped with many built-in tools for rapid development, which provided us with a lot of convenience for our project.
 2. While we were more familiar with SQLite from our Week 7 CS50x Topic, we found SQLite to have very limited scalability, which would limit our database and website workload. Hence, we chose the alternative PostgreSQL, which is suitable for complex workloads and applications that require complex queries and data types. 
-3. While working through the project, we chanced upon Vue.js, which builds on top of standard HTML, CSS, and JavaScript and provides a declarative, component-based programming model that helps to develop user interfaces more efficaciously.
+3. While working through the project, we chanced upon Vue.js, which builds on top of standard HTML, CSS, and JavaScript and provides a declarative, component-based programming model that helps to develop user interfaces more efficaciously. We then decided to use Vue.js as it can better integrate HTML, CSS, and JavaScript for our project.
 
 In summary, CommunityConnect represents a paradigm shift in the realm of corporate social responsibility, offering a holistic solution to foster collaboration and drive positive change. We hope that by leveraging technology to bridge the gap between NGOs and socially conscious companies, CommunityConnect empowers organizations to make a tangible impact on the world, one partnership at a time. We would like to thank the CS50x for this arduous, yet fulfilling journey. 
 
