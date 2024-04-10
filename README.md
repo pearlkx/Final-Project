@@ -45,6 +45,6 @@ Our platform aims to bridge the information gap and streamline the matchmaking p
 2. While we were more familiar with SQLite from our Week 7 CS50x Topic, we found SQLite to have very limited scalability, which would limit our database and website workload. Hence, we chose the alternative PostgreSQL, which is suitable for complex workloads and applications that require complex queries and data types. 
 3. While working through the project, we chanced upon Vue.js, which builds on top of standard HTML, CSS, and JavaScript and provides a declarative, component-based programming model that helps to develop user interfaces more efficaciously.
 
-In summary, CommunityConnect represents a paradigm shift in the realm of corporate social responsibility, offering a holistic solution to foster collaboration and drive positive change. By leveraging technology to bridge the gap between NGOs and socially conscious companies, CommunityConnect empowers organizations to make a tangible impact on the world, one partnership at a time. 
+In summary, CommunityConnect represents a paradigm shift in the realm of corporate social responsibility, offering a holistic solution to foster collaboration and drive positive change. We hope that by leveraging technology to bridge the gap between NGOs and socially conscious companies, CommunityConnect empowers organizations to make a tangible impact on the world, one partnership at a time. We would like to thank the CS50x for this arduous, yet fulfilling journey. 
 
 
