@@ -15,7 +15,7 @@ Despite the flourishing ecosystem, identifying the right organization to support
 
 Our platform aims to bridge the information gap and streamline the matchmaking process between companies and NGOs. We achieve this by providing both parties with an intuitive interface for effortless organization discovery. This functionality enables users to:
 
-- Create an account and log in.
+1. Create an account and log in. Implementing Route Guards from the beginning of the user’s interaction with the application helps facilitate the enforcement of user roles and permissions. 
 - View postings by different NGOs and companies.
 - Search and filter postings based on various factors like location, financing, SDGs, industry, etc.
 - Save and communicate with organizations that align with their corporate mission.
