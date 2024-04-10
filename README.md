@@ -39,6 +39,12 @@ Our platform aims to bridge the information gap and streamline the matchmaking p
 **package.json:** Contains information about the Vue.js interface, such as its name, version, dependencies, and scripts
 **vite.config.js:** Vite is a frontend build tool to configure a development environment for Vue
 
+## Considerations
+
+1. Although we learnt Flask as part of our Week 9 CS50x Topic, we struggled in creating a website from scratch due to its simpler tools. We then searched for more accessible tools for web development and we found Django. Unlike Flask which has a lightweight micro-framework and has a “build from scratch” approach, Django is equipped with many built-in tools for rapid development, which provided us with a lot of convenience for our project.
+2. While we were more familiar with SQLite from our Week 7 CS50x Topic, we found SQLite to have very limited scalability, which would limit our database and website workload. Hence, we chose the alternative PostgreSQL, which is suitable for complex workloads and applications that require complex queries and data types. 
+3. While working through the project, we chanced upon Vue.js, which builds on top of standard HTML, CSS, and JavaScript and provides a declarative, component-based programming model that helps to develop user interfaces more efficaciously.
+
 In summary, CommunityConnect represents a paradigm shift in the realm of corporate social responsibility, offering a holistic solution to foster collaboration and drive positive change. By leveraging technology to bridge the gap between NGOs and socially conscious companies, CommunityConnect empowers organizations to make a tangible impact on the world, one partnership at a time. 
 
 
