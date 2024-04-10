@@ -1,7 +1,7 @@
 # CommunityConnect
 ## CS50- Pearl Koswara and Tam Jing Xuan
 ## Final Project
-## Video Demo:  [https://drive.google.com/file/d/1B6ebUoVoswQs4NP0_K8WbDipJdrb_DTk/view?usp=sharing]
+## Video Demo:  [Final Project Video](https://drive.google.com/file/d/1B6ebUoVoswQs4NP0_K8WbDipJdrb_DTk/view?usp=sharing)
 ## Description: 
 CommunityConnect is a comprehensive platform designed for Non-Governmental Organisations (NGOs) seeking assistance, both financial and non-financial, from socially conscious companies interested in making a meaningful impact. The platform that help to build a sustained and effective communication between the NG)s and the corporate entities.
 ## Introduction
@@ -11,12 +11,12 @@ data-driven interface that transcends these barriers, enabling seamless identifi
 ## Features
 Our platform aims to bridge the information gap and streamline the matchmaking process between companies and NGOs. We achieve this by providing both parties 
 with an intuitive interface for effortless organization discovery. This functionality enables users to: 
-1. Create an account and log in. Implementing Route Guards from the 
+- Create an account and log in. Implementing Route Guards from the 
 beginning of the user’s interaction with the application helps facilitate the enforcement of user roles and permissions. Authentication is provided by Firebase.
-2. View postings by different NGOs and companies. The "Posting Page" is the heart of our platform, empowering NGOs to voice their needs and seek assistance. The data is then
-3. processed by Django and a HTTP POST request is sent to firebase. Search and filter postings based on various factors like location, financing, SDGs, industry, etc.
-4. Save and communicate with organisations that align with their corporate mission.
-5. Submit post requests to allow us to champion their causes to a larger audience, effectively finding the right partners.
+- View postings by different NGOs and companies. The "Posting Page" is the heart of our platform, empowering NGOs to voice their needs and seek assistance. The data is then processed by Django and a HTTP POST request is sent to firebase.
+- Search and filter postings based on various factors like location, financing, SDGs, industry, etc.
+- Save and communicate with organisations that align with their corporate mission.
+- Submit post requests to allow us to champion their causes to a larger audience, effectively finding the right partners.
 ## Tech Stack
 **Backend Development:** Built using Python and the Django web framework, the backend of CommunityConnect ensures robustness, scalability, and performance.
 **Database Management:** Leveraging a relational database such as PostgreSQL, CommunityConnect efficiently stores and manages data, ensuring reliability and data integrity.
