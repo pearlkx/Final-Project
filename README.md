@@ -3,23 +3,23 @@
 ### Final Project
 
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  [https://drive.google.com/file/d/1B6ebUoVoswQs4NP0_K8WbDipJdrb_DTk/view?usp=sharing]
 #### Description: CommunityConnect is a comprehensive platform designed for Non-Governmental Organisations (NGOs) seeking assistance, both financial and non-financial, from socially conscious companies interested in making a meaningful impact.
 
 
 ## Introduction
 
-Despite the flourishing ecosystem, identifying the right organization to support can be a challenging endeavor. Traditionally, the path to partnership is strewn with obstacles, from exhaustive due diligence to the inherent limitations in an NGO's outreach capabilities. Recognizing this, CommunityConnect offers an intuitive, data-driven interface that transcends these barriers, enabling seamless identification, communication, and alignment of missions between NGOs and corporate entities.
+Despite the flourishing ecosystem, identifying the right organisation to support can be a challenging endeavor. Traditionally, the path to partnership is strewn with obstacles, from exhaustive due diligence to the inherent limitations in an NGO's outreach capabilities. Recognizing this, CommunityConnect offers an intuitive, data-driven interface that transcends these barriers, enabling seamless identification, communication, and alignment of missions between NGOs and corporate entities.
 
 ## Features
 
 Our platform aims to bridge the information gap and streamline the matchmaking process between companies and NGOs. We achieve this by providing both parties with an intuitive interface for effortless organization discovery. This functionality enables users to:
 
-1. Create an account and log in. Implementing Route Guards from the beginning of the user’s interaction with the application helps facilitate the enforcement of user roles and permissions. 
-- View postings by different NGOs and companies.
-- Search and filter postings based on various factors like location, financing, SDGs, industry, etc.
-- Save and communicate with organizations that align with their corporate mission.
-- Submit post requests to allow us to champion their causes to a larger audience, effectively finding the right partners.
+1. Create an account and log in. Implementing Route Guards from the beginning of the user’s interaction with the application helps facilitate the enforcement of user roles and permissions. Authentication is provided by Firebase.
+2. View postings by different NGOs and companies. The "Posting Page" is the heart of our platform, empowering NGOs to voice their needs and seek assistance. The data is then processed by Django and a HTTP POST request is sent to firebase.
+3. Search and filter postings based on various factors like location, financing, SDGs, industry, etc.
+4. Save and communicate with organisations that align with their corporate mission.
+5. Submit post requests to allow us to champion their causes to a larger audience, effectively finding the right partners.
 
 ## Tech Stack
 
