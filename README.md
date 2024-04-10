@@ -23,9 +23,10 @@ Our platform aims to bridge the information gap and streamline the matchmaking p
 
 ## Tech Stack
 
-- **Python**: The backend of CommunityConnect is built using Python, using the [Django](https://www.djangoproject.com/) web framework.
-- **Database**: We use a relational database, such as PostgreSQL, to store and manage data efficiently.
-- **Frontend**: The frontend is built using [Vue.js](https://vuejs.org/), allowing for a dynamic and responsive user interface. Chakra UI is used for styling.
-- **Authentication**: User authentication is handled securely using Python libraries and best practices. we use firebase for authentication.
-- **Deployment**: The application is currently hosted locally, but we plan to deploy it on a cloud platform such as Heroku.
+**Backend Development:** Built using Python and the Django web framework, the backend of CommunityConnect ensures robustness, scalability, and performance.
+**Database Management:** Leveraging a relational database such as PostgreSQL, CommunityConnect efficiently stores and manages data, ensuring reliability and data integrity.
+**Frontend Development:** The frontend of CommunityConnect is developed using Vue.js, a progressive JavaScript framework known for its versatility and responsiveness. Chakra UI is employed for styling, enhancing the visual appeal and usability of the platform. We also used html to improve the formatting of the website.
+**Authentication and Security:** User authentication is handled securely using Firebase authentication, implementing best practices to safeguard user data and privacy.
+**Deployment:** While the application is currently hosted locally, we have plans to deploy it on a cloud platform such as Heroku, ensuring accessibility and scalability for users worldwide.
 
+In summary, CommunityConnect represents a paradigm shift in the realm of corporate social responsibility, offering a holistic solution to foster collaboration and drive positive change. By leveraging technology to bridge the gap between NGOs and socially conscious companies, CommunityConnect empowers organizations to make a tangible impact on the world, one partnership at a time. 
