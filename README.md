@@ -5,7 +5,7 @@
 
 #### Video Demo:  [https://drive.google.com/file/d/1B6ebUoVoswQs4NP0_K8WbDipJdrb_DTk/view?usp=sharing]
 
-#### Description: CommunityConnect is a comprehensive platform designed for Non-Governmental Organisations (NGOs) seeking assistance, both financial and non-financial, from socially conscious companies interested in making a meaningful impact.
+#### Description: CommunityConnect is a comprehensive platform designed for Non-Governmental Organisations (NGOs) seeking assistance, both financial and non-financial, from socially conscious companies interested in making a meaningful impact. The platform that help to build a sustained and effective communication between the NG)s and the corporate entities.
 
 **Introduction**
 
