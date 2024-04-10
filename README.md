@@ -29,4 +29,16 @@ Our platform aims to bridge the information gap and streamline the matchmaking p
 **Authentication and Security:** User authentication is handled securely using Firebase authentication, implementing best practices to safeguard user data and privacy.
 **Deployment:** While the application is currently hosted locally, we have plans to deploy it on a cloud platform such as Heroku, ensuring accessibility and scalability for users worldwide.
 
+## Files
+
+**node_modules:** The node_modules folder contains libraries downloaded from npm. For our CommunityConnect project, we used npm to install callsites
+**firebase.json:** Contains the code used to authenticate the user login based on the database in node_modules
+**firepit-log.txt:** Firepit is a standalone, portable version of the Firebase command-line interface
+**index.html:** Contains the code used to format the homepage of CommunityConnect
+**package-lock.json:** Automatically generated for any operations where npm modifies either the node_modules tree, or package.json. It describes the exact tree that was generated, such that subsequent installs are able to generate identical trees, regardless of intermediate dependency updates
+**package.json:** Contains information about the Vue.js interface, such as its name, version, dependencies, and scripts
+**vite.config.js:** Vite is a frontend build tool to configure a development environment for Vue
+
 In summary, CommunityConnect represents a paradigm shift in the realm of corporate social responsibility, offering a holistic solution to foster collaboration and drive positive change. By leveraging technology to bridge the gap between NGOs and socially conscious companies, CommunityConnect empowers organizations to make a tangible impact on the world, one partnership at a time. 
+
+
